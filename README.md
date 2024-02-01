@@ -16,7 +16,7 @@ Looking to expand your knowledge on Javascript as well? Check out our comprehens
 [JavaScript interview question and answers page](https://www.codinn.dev/tricky-javascript/es6789-code-snippets-interview-questions)
 </span> to help you prepare for your next interview.
 
-<span style=" font-size: 1rem;"> \*Discover the answers by clicking on the questions.</span>
+<span style=" font-size: 1rem;"> \*Discover the answers by Left clicking on the questions.</span>
 
 <details>
 <summary>
